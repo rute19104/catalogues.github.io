@@ -1,0 +1,65 @@
+Acronym,Name,European/International,Relevant EU-IoT Scope Areas,Domains,Stakeholders,Description,URL,ICT-56 Projects involved,How to get involved,Notes
+3GPPP,3rd Generation Partnership Project (3GPP) ,International,Infrastructure,Horizontal,"Industry, policy makers, research","The 3rd Generation Partnership Project (3GPP) unites [Seven] telecommunications standard development organizations (ARIB, ATIS, CCSA, ETSI, TSDSI, TTA, TTC), known as “Organizational Partners” and provides their members with a stable environment to produce the Reports and Specifications that define 3GPP technologies.
+
+The project covers cellular telecommunications technologies, including radio access, core network and service capabilities, which provide a complete system description for mobile telecommunications.
+
+The 3GPP specifications also provide hooks for non-radio access to the core network,and for interworking with non-3GPP networks.
+
+3GPP specifications and studies are contribution-driven, by member companies, in Working Groups and at the Technical Specification Group level.
+
+The three Technical Specification Groups (TSG) in 3GPP are;
+
+    Radio Access Networks (RAN),
+    Services & Systems Aspects (SA),
+    Core Network & Terminals (CT) 
+
+The project covers cellular telecommunications technologies, including radio access, core network and service capabilities, which provide a complete system description for mobile telecommunications.
+
+The 3GPP specifications also provide hooks for non-radio access to the core network,and for interworking with non-3GPP networks.
+
+3GPP specifications and studies are contribution-driven, by member companies, in Working Groups and at the Technical Specification Group level.",https://www.3gpp.org/,"ASSIST-IoT, IntellIoT, IoT-NGIN",Payed membership,"ASSIST-IoT, IoT; IntelliIoT, TSN and 5GCore; NG-IoT mentions Collaborating with 3GPP on release 17 and beyond for the use of satellite 5G communications in IoT."
+CENELEC,European Committee for Electrotechnical Standardisation,International,"Infrastructure, interfaces",Horizontal,Industry,"CENELEC is the European Committee for Electrotechnical Standardization and is responsible for standardization in the electrotechnical engineering field. CENELEC prepares voluntary standards, which help facilitate trade between countries, create new markets, cut compliance costs and support the development of a Single European Market.
+
+CENELEC creates market access at European level but also at international level, adopting international standards wherever possible, through its close collaboration with the International Electrotechnical Commission (IEC)",https://www.cenelec.eu,,Payed membership,
+ETSI,European Telecommunications Standards Institute,International,Infrastructure and data spaces,Horizontal,"Industry, policy makers, research","ETSI provides members with an open, inclusive and collaborative environment. This environment supports the timely development, ratification and testing of globally applicable standards for ICT-enabled systems, applications and services.
+
+We are at the forefront of emerging technologies across all sectors of industry and society that make use of ICT. Our 900+ member organizations are drawn from 65 countries and five continents.","https://www.etsi.org/
+https://www.etsi.org/technologies/internet-of-things","ASSIST-IoT, IoT-NGIN",Payed membership,SAREF
+GS1,,,"Interfaces, far edge",Horizontal,"Industry, policy makers, research","GS1 standards create a common
+foundation for business by uniquely
+identifying, accurately capturing and
+automatically sharing vital information
+about products, locations, assets and
+more.",https://www.gs1.org,,Payed membership,
+IEC,International Electrotecnical Commission,International,"Interfaces, far edge, near Edge, infrastructure",Horizontal,"Industry, policy makers, research","Founded in 1906, the IEC (International Electrotechnical Commission) is the world’s leading organization for the preparation and publication of international standards for all electrical, electronic and related technologies. These are known collectively as “electrotechnology”",https://www.iec.ch,,Payed membership,
+IEEE,Institute of Electrical and Electronics Engineering,International,Infrastructure,Horizontal,"Industry, research","The IEEE is a professional association that develops, defines, and reviews electronics and computer science standards. Its mission is ""to foster technological innovation and excellence for the benefit of humanity.
+",https://www.ieee.org,"ASSIST-IoT, IntellIoT, Terminet",Payed membership,"IntellIoT:  IEEE. 
+TCA42 < Terminet, SDN"
+IETF,Internet Engineering Task Force,International,All areas,Horizontal,"Industry, research","The mission of the IETF is to make the Internet work better by producing high quality, relevant technical documents that influence the way people design, use, and manage the Internet. The IETF develops standards related with the Internet operation in a volunteer way, based on different areas",https://www.ietf.org,,Free,
+ISO,International organisation for standardisation,International,All areas,Horizontal,"Industry, policy makers, research","ISO is an independent, non-governmental international organization with a membership of 165 national standards bodies.
+
+Through its members, it brings together experts to share knowledge and develop voluntary, consensus-based, market relevant International Standards that support innovation and provide solutions to global challenges.
+
+You'll find our Central Secretariat in Geneva, Switzerland. Learn more about our structure and how we are governed.",,,Via national institutes for standardisation,
+ITU-T,International Telecommunication Union,International,All areas,Horizontal,"Industry, research"," The International Telecommunication Union (ITU) is the United Nations specialized agency for information and communication technologies – ICTs.
+
+Founded in 1865 to facilitate international connectivity in communications networks, we allocate global radio spectrum and satellite orbits, develop the technical standards that ensure networks and technologies seamlessly interconnect, and strive to improve access to ICTs to underserved communities worldwide.  Every time you make a phonecall via the mobile, access the Internet or send an email, you are benefitting from the work of ITU. 
+",https://www.itu.int,ASSIST-IoT,Payed membership,
+OASIS,Organization for the Advancement of Structured Information Standards,International,All areas,Horizontal,Industry,"OASIS works on the development, convergence, and adoption of open standards for cybersecurity, blockchain, Internet of Things (IoT), emergency management, cloud computing, legal data exchange, energy, content technologies, and other areas. Responsible for several relevant standards in IoT, e.g., AMQP, SARIF, TOSCA, oData, etc.",https://www.oasis-open.org,,Payed membership,
+ODVA,,International,Infrastructure,Manufacturing,Industry,"ODVA is a standards development organization and membership association whose members comprise the world’s leading industrial automation companies. ODVA works to advance open, interoperable information and communication technologies in industrial automation.
+Founded in 1995, ODVA is a global association whose members comprise the world’s leading automation companies. ODVA’s mission is to advance open, interoperable information and communication technologies in industrial automation. ODVA recognizes its media independent network protocol, the Common Industrial Protocol or “CIP” — and the network adaptations of CIP — EtherNet/IP, DeviceNet, CompoNet and ControlNet — as its core technology and the primary common interest of its membership. For future interoperability of production systems and the integration of the production systems with other systems, ODVA embraces the adoption of commercial-off-the-shelf (COTS) and standard, unmodified Internet and Ethernet technologies as a guiding principle wherever possible. This principle is exemplified by EtherNet/IP — the world’s number one industrial Ethernet network.  ",https://www.odva.org,,Payed membership,
+OGC,Open Geospatial consortium,International,"Data spaces, Far Edge",Horizontal,"Industry, research","The Open Geospatial Consortium (OGC) is an international consortium of more than 500 businesses, government agencies, research organizations, and universities driven to make geospatial (location) information and services FAIR - Findable, Accessible, Interoperable, and Reusable.
+
+OGC's member-driven consensus process creates royalty free, publicly available, open geospatial standards. Existing at the cutting edge, OGC actively analyzes and anticipates emerging tech trends, and runs an agile, collaborative Research and Development (R&D) lab - the OGC Innovation Program - that builds and tests innovative prototype solutions to members' use cases.",https://www.ogc.org,,Payed membership,
+OPC ,Open Platforms Communication Foundation,International,Infrastructure,Manufacturing,Industry,"OPC is the interoperability standard for the secure and reliable exchange of data in the industrial automation space and in other industries. It is platform independent and ensures the seamless flow of information among devices from multiple vendors. The OPC Foundation is responsible for the development and maintenance of this standard.
+
+The OPC standard is a series of specifications developed by industry vendors, end-users and software developers. These specifications define the interface between Clients and Servers, as well as Servers and Servers, including access to real-time data, monitoring of alarms and events, access to historical data and other applications.
+
+When the standard was first released in 1996, its purpose was to abstract PLC specific protocols (such as Modbus, Profibus, etc.) into a standardized interface allowing HMI/SCADA systems to interface with a “middle-man” who would convert generic-OPC read/write requests into device-specific requests and vice-versa. As a result, an entire cottage industry of products emerged allowing end-users to implement systems using best-of-breed products all seamlessly interacting via OPC.
+
+Initially, the OPC standard was restricted to the Windows operating system. As such, the acronym OPC was borne from OLE (object linking and embedding) for Process Control. These specifications, which are now known as OPC Classic, have enjoyed widespread adoption across multiple industries, including manufacturing, building automation, oil and gas, renewable energy and utilities, among others.
+
+With the introduction of service-oriented architectures in manufacturing systems came new challenges in security and data modeling. The OPC Foundation developed the OPC UA specifications to address these needs and at the same time provided a feature-rich technology open-platform architecture that was future-proof, scalable and extensible.
+
+Today the acronym OPC stands for Open Platform Communications.",https://opcfoundation.org/,,Payed membership,
+W3C/WoT,World Wide Web Consortium/Web of Things,International,"Data spaces, Far Edge",Horizontal,"Industry, research","The World Wide Web Consortium (W3C) is an international community where Member organizations, a full-time staff, and the public work together to develop Web standards. Led by Web inventor and Director Tim Berners-Lee and CEO Jeffrey Jaffe, W3C's mission is to lead the Web to its full potential",https://www.w3.org/,IntellIoT,Free, W3C multi agent system
